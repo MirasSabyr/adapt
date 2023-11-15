@@ -1430,4 +1430,9 @@ ul{
      .futuremap{
       display: none;
      }
+    ul{
+         font-size: 14px;
+      top: 27px;
+      left: 29px;
+    }
 }       
